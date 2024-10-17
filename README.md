@@ -18,8 +18,14 @@ ___
 En el proyecto de cada escenario se debe adjuntar la documentación generada y el diagrama base.
 
 Consideraciones:
-<ul><p style="color: blue">Diagrama elegido del escenario de la biblioteca</p></ul>
+<ul><p style="color: blue">Diagrama elegido de la biblioteca</p></ul>
+
+![Diagrama de clase biblioteca](https://i.imgur.com/PtM1GlZ.png)
 
 <ul><p style="color: blue">Diagrama elegido del escenario del restaurante</p></ul>
 
+![Diagrama de clase restaurante](https://i.imgur.com/rdzhsDd.png)
+
 <ul><p style="color: blue">Diagrama elegido del escenario de la aerolinea</p></ul>
+
+![Diagrama de clase Aerolinea](https://i.imgur.com/MIlYpVH.png)
